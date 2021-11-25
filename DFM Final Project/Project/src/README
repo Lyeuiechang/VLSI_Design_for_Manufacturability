@@ -1,0 +1,6 @@
+How to run the program:
+
+-> make
+-> ./Hybrid_Lithography <Coloring distance> <Original testcase file path> <Your output file path>
+
+Ex: ./Hybrid_Lithography 0.064 ../testcase/M0.out ../output/My_M0.out

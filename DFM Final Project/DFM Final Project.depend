@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1624193295 source:c:\users\lyeuiechang\documents\codeblocks\dfm final project\main.cpp
+	<iostream>
+	<vector>
+	<stdio.h>
+	<string.h>
+	<limits>
+	<math.h>
+
